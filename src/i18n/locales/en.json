@@ -1,0 +1,206 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "schemes": "Schemes & Services",
+    "info": "Information & Announcements",
+    "tenders": "Tenders",
+    "gallery": "Gallery",
+    "committee": "Gram Panchayat Committee",
+    "contact": "Contact Us"
+  },
+  "committee": {
+    "title": "Gram Panchayat Committee",
+    "subtitle": "Meet our dedicated team working for the development of our village",
+    "designations": {
+      "sarpanch": "Sarpanch",
+      "deputySarpanch": "Deputy Sarpanch",
+      "grampanchayatAdhikari": "Gram Panchayat Adhikari",
+      "member": "Member",
+      "panchayatMember": "Panchayat Member",
+      "secretary": "Secretary"
+    },
+    "sections": {
+      "keyMembers": "Key Members",
+      "otherMembers": "Other Members"
+    }
+  },
+  "about": {
+    "title": "About Our Gram Panchayat Khandpe",
+    "subtitle": "Learn about our history, vision, and the people who make it all possible.",
+    "history": "History",
+    "historyContent": "The history of our Gram Panchayat Khandpe dates back to...",
+    "vision": "Vision and Mission",
+    "visionContent": "Our vision is to create a self-reliant and prosperous village community...",
+    "message": "Members' Message",
+    "committee": "Committee and Members"
+  },
+  "schemes": {
+    "title": "Schemes & Services",
+    "subtitle": "Explore various government schemes and services available for our villagers.",
+    "central": "Central Government Schemes",
+    "state": "State Government Schemes",
+    "local": "Local Initiatives",
+    "applications": "Applications",
+    "centralDescription": "Details about Central Government Schemes will be displayed here.",
+    "stateDescription": "Details about State Government Schemes will be displayed here.",
+    "localDescription": "Details about Local Initiatives will be displayed here."
+  },
+  "announcements": {
+    "title": "Information & Announcements",
+    "subtitle": "Stay updated with the latest news and announcements from the Gram Panchayat Khandpe.",
+    "category": "General",
+    "sampleTitle": "Important Announcement Title",
+    "sampleContent": "This is a sample announcement. The actual content will be replaced with real announcements from the Gram Panchayat."
+  },
+  "workingCommittee": {
+    "title": "Village Working Committee",
+    "subtitle": "This section provides details of the Gram Panchayat members, their roles, and responsibilities in village development and administration.",
+    "members": {
+      "sarpanch": "Sarpanch",
+      "deputySarpanch": "Deputy Sarpanch",
+      "grampanchayatAdhikari": "Gram Panchayat Adhikari",
+      "member": "Member",
+      "contact": "Contact",
+      "role": "Role"
+    },
+    "sarpanchMessage": {
+      "title": "Message from Sarpanch",
+      "content": "We are committed to the overall development of our village and the welfare of all residents. Our team works tirelessly to ensure transparency and efficiency in all our initiatives."
+    },
+    "officeContact": {
+      "title": "Gram Panchayat Office",
+      "address": "Gram Panchayat Office, Main Road, Village Khandpe, Maharashtra 413102",
+      "phone": "+91 XXXXXXXXXX",
+      "email": "info@grampanchayatkhandpe.org",
+      "timings": "10:00 AM to 5:00 PM (Monday to Saturday)"
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Moments and events from our village",
+    "categories": {
+      "all": "All",
+      "meeting": "Meetings",
+      "festival": "Festivals",
+      "development": "Development Works",
+      "education": "Education Programs",
+      "publicBuildings": "Public Buildings"
+    },
+    "items": {
+      "village_meeting": "Village Council Meeting",
+      "village_meeting_desc": "Annual Gram Sabha meeting with village council members",
+      "ganesh_utsav": "Ganesh Utsav Celebration",
+      "ganesh_utsav_desc": "Annual Ganesh Utsav celebration in our village",
+      "road_construction": "Road Development Work",
+      "road_construction_desc": "New road construction in the village",
+      "school_event": "School Annual Day",
+      "school_event_desc": "Annual day celebration at the village school",
+      "health_camp": "Health Camp",
+      "health_camp_desc": "Free health checkup camp for villagers",
+      "republic_day": "Republic Day Celebration",
+      "republic_day_desc": "75th Republic Day celebration in our village",
+      "ganpati_mandir": "Ganesh Mandir",
+      "ganpati_mandir_desc": "Ganesh Temple in the village",
+      "grampanchayat_office": "Gram Panchayat Office",
+      "grampanchayat_office_desc": "Gram Panchayat administrative office building",
+      "hanuman_mandir": "Hanuman Mandir",
+      "hanuman_mandir_desc": "Hanuman Temple in the village",
+      "prathmik_shala": "Zilla Parishad Primary School",
+      "prathmik_shala_desc": "Primary school building in the village"
+    },
+    "cta": {
+      "title": "Have photos to share?",
+      "description": "Contribute to our gallery by sharing your photos of village events and activities.",
+      "button": "Share Your Photos"
+    }
+  },
+  "tenders": {
+    "title": "Tenders",
+    "subtitle": "Current and upcoming tenders from the Gram Panchayat",
+    "tenderId": "Tender ID",
+    "titleCol": "Title",
+    "department": "Department",
+    "published": "Published On",
+    "closing": "Closing Date",
+    "status": "Status",
+    "pwd": "Public Works Department",
+    "waterDept": "Water Supply Department",
+    "sampleTitle": "Construction of Community Hall",
+    "sampleTitle2": "Water Supply System Maintenance",
+    "sampleTitle3": "Road Construction Work",
+    "statusOpen": "Open",
+    "statusClosed": "Closed"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for any queries or feedback",
+    "getInTouch": "Get in Touch",
+    "followUs": "Follow Us",
+    "sendMessage": "Send us a Message",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you for your message. We will get back to you soon!"
+    },
+    "address": {
+      "title": "Our Office",
+      "content": "Gram Panchayat Office, Khandpe , Murbad, Thane, Maharashtra - 421401"
+    },
+    "phone": {
+      "title": "Phone"
+    },
+    "email": {
+      "title": "Email"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "content": "Monday to Saturday: 9:00 AM to 6:00 PM"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Khandape Grampanchayat",
+      "subtitle": "Working towards integrated development and prosperity",
+      "ctaPrimary": "View Schemes",
+      "ctaSecondary": "Contact Us"
+    },
+    "stats": {
+      "population": "Population",
+      "male": "Male",
+      "female": "Female",
+      "households": "Households",
+      "literacyRate": "Literacy Rate"
+    },
+    "welcome": {
+      "title": "Welcome to Khandape Grampanchayat",
+      "message": "Khandape Grampanchayat is located in Murbad Taluka, Thane District. Our population is 1,066, including 553 males and 513 females. Our literacy rate is 70.26%. We provide various schemes and services for the welfare of our villagers.",
+      "imageAlt": "Khandape Grampanchayat Building",
+      "sarpanchTitle": "Sarpanch's Message",
+      "sarpanchName": "Shri/Smt. [Sarpanch Name]"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "goHome": "Go to Home",
+    "goBack": "Go Back"
+  },
+  "common": {
+    "language": "Language",
+    "viewDetails": "View Details",
+    "showLess": "Show Less",
+    "contact": "Contact",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "contactUs": "Contact Us",
+    "download": "Download",
+    "quickLinks": "Quick Links",
+    "allRightsReserved": "All Rights Reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  }
+}
